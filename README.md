@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Visacdev
 - 👀 I’m interested in learn to progam
 - 🌱 I’m currently learning HTML, JS and CSS
-- 💞️ I’m looking to lear with github
+- 💞️ I’m looking to learn with github
 - 📫 How to reach me? Just check my profile
 
 <!---
